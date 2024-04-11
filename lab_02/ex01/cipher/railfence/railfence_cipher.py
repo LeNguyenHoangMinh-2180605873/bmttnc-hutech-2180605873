@@ -47,4 +47,4 @@ class RailFenceCipher:
                 direction= -1
             rail_index += direction
                 
-        return plain_text
+            return plain_text
